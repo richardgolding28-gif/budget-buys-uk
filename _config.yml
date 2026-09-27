@@ -9,8 +9,9 @@ theme: minima
 minima:
   skin: dark
 
-# Amazon Associates tracking ID — every affiliate link on the site reads this value.
-amazon_tag: "trailandtarp-20"
+# Amazon Associates (UK, amazon.co.uk) tracking ID — every affiliate link on the site reads this value.
+# Once approved at https://associates.amazon.co.uk, replace with your real UK tag (looks like "trailandtarp-21").
+amazon_tag: "YOURTAG-21"
 
 plugins:
   - jekyll-feed

@@ -11,12 +11,12 @@ An affiliate content site: budget/beginner camping gear buying guides, monetized
    git push -u origin main
    ```
 2. **Turn on GitHub Pages.** In the repo: Settings → Pages → Source: "Deploy from a branch" → Branch: `main` / `/(root)`. Your site goes live at `https://YOUR-USERNAME.github.io/camp-gear-guide/` within a few minutes.
-3. **Apply to Amazon Associates** at https://affiliate-program.amazon.com. You'll need your live site URL from step 2 and a handful of published posts (already done — there are 4). Approval usually takes a few days; Amazon reviews the site for genuine content, which this has.
+3. **Apply to Amazon Associates UK** at https://associates.amazon.co.uk (not the US .com program — as a UK resident with a UK bank account, the UK programme is the one that actually pays out cleanly). You'll need your live site URL from step 2 and a handful of published posts (already done — there are 4). Approval usually takes a few days; Amazon reviews the site for genuine content, which this has.
 4. **Once approved**, put your Associate tag into `_config.yml`:
    ```yaml
-   amazon_tag: "yourrealtag-20"
+   amazon_tag: "yourrealtag-21"
    ```
-   Commit and push that one-line change. Every affiliate link on every post — past and future — updates automatically, because they all read this one value.
+   Commit and push that one-line change. Every affiliate link on every post — past and future — updates automatically, because they all read this one value. Links point to amazon.co.uk.
 
 That's it. Nothing else here needs your identity or a payment method tied to you personally beyond the Associates signup itself.
 
