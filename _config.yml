@@ -2,18 +2,15 @@ title: Trail & Tarp
 description: >-
   No-nonsense buying guides for budget and beginner camping gear —
   tents, sleeping bags, coolers, lights, and more.
-baseurl: ""
-url: ""
+baseurl: "/camp-gear-guide"
+url: "https://richardgolding28-gif.github.io"
 
 theme: minima
 minima:
   skin: dark
 
-# --- Your Amazon Associates tracking ID goes here ---
-# Sign up free at https://affiliate-program.amazon.com
-# Once approved, replace "YOURTAG-20" below with your real tag.
-# Every affiliate link on the whole site reads from this one value.
-amazon_tag: "YOURTAG-20"
+# Amazon Associates tracking ID — every affiliate link on the site reads this value.
+amazon_tag: "trailandtarp-20"
 
 plugins:
   - jekyll-feed
