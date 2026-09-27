@@ -1,0 +1,35 @@
+title: Trail & Tarp
+description: >-
+  No-nonsense buying guides for budget and beginner camping gear —
+  tents, sleeping bags, coolers, lights, and more.
+baseurl: ""
+url: ""
+
+theme: minima
+minima:
+  skin: dark
+
+# --- Your Amazon Associates tracking ID goes here ---
+# Sign up free at https://affiliate-program.amazon.com
+# Once approved, replace "YOURTAG-20" below with your real tag.
+# Every affiliate link on the whole site reads from this one value.
+amazon_tag: "YOURTAG-20"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+header_pages:
+  - about.md
+  - disclosure.md
+
+markdown: kramdown
+permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
