@@ -8,9 +8,9 @@ faq:
 - question: Synthetic or down?
   answer: Down if you want less weight and bulk and can keep it reasonably dry. Synthetic if you'll be somewhere wet, or want something that dries faster and costs less up front.
 - question: What temperature rating do I actually need?
-  answer: For 3-season use in most of the US and UK, a 20-30°F (comfort-rated) bag covers the vast majority of trips. Only go colder-rated if you specifically plan on winter camping.
+  answer: For 3-season use in most of the UK, a -6°C to -1°C (comfort-rated) bag covers the vast majority of trips. Only go colder-rated if you specifically plan on winter camping.
 - question: Can I just use a blanket at home instead?
-  answer: For car camping in mild weather, sure. A sleeping bag earns its keep the moment temperatures drop below about 50°F (10°C) at night or you're sleeping on the ground rather than in a tent with a proper pad underneath.
+  answer: For car camping in mild weather, sure. A sleeping bag earns its keep the moment temperatures drop below about 10°C at night or you're sleeping on the ground rather than in a tent with a proper pad underneath.
 ---
 
 {% include disclosure-note.html %}
@@ -20,7 +20,7 @@ The single most misleading number in outdoor gear is a sleeping bag's temperatur
 
 ## How to read the numbers
 
-- **"Comfort" vs "limit" rating** — the printed temperature is usually the *survival* limit, not the temperature you'll sleep comfortably at. Subtract 10-15°F from the stated rating for a realistic comfort estimate.
+- **"Comfort" vs "limit" rating** — the printed temperature is usually the *survival* limit, not the temperature you'll sleep comfortably at. Subtract 5-8°C from the stated rating for a realistic comfort estimate.
 - **Fill power (down bags)** — 550-650 fill power is a reasonable mid-range; higher packs smaller and lighter for the same warmth but costs more.
 - **Mummy vs rectangular** — mummy bags trap heat far better because there's less empty air to warm. If you run cold, get a mummy shape even if it feels snug in the store.
 - **Packed size** — matters a lot if you're backpacking, barely at all for car camping.
