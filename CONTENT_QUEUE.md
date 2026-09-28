@@ -6,7 +6,6 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Queue (next up first)
 
-- Best budget camp stoves under $50
 - Best sleeping pads for backpacking
 - Best dry bags for camping and kayaking
 - Best portable camping chairs
@@ -24,6 +23,7 @@ Each new post should follow the exact structure of the existing posts in `_posts
 
 ## Done
 
+- Best budget camp stoves under $50 (2026-09-28)
 - Best budget camping tents under $150 (2026-09-27)
 - Best budget backpacking sleeping bags (2026-09-27)
 - Best LED headlamps for camping under $20 (2026-09-27)
