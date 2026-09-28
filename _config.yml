@@ -12,6 +12,9 @@ minima:
 # Amazon Associates (UK, amazon.co.uk) tracking ID — every affiliate link on the site reads this value.
 amazon_tag: "trailandtarp-21"
 
+# Google Search Console ownership verification (jekyll-seo-tag outputs this automatically)
+google_site_verification: tXgJa5JjqqaDelg_4j5mTtVWsSRiUVL5MoYlVs3NGCQ
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
