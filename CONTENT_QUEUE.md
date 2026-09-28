@@ -43,6 +43,31 @@ Order matters: this list is prioritised so near-term seasonal topics (Halloween,
 - Best portable power banks for camping
 - Best first aid kits for hiking and camping
 - Best budget binoculars for camping and hiking
+- Best Valentine's Day gifts for him
+- Best Valentine's Day gifts for her
+- Best romantic gift sets under £20
+- Best Mother's Day gifts under £20
+- Best pampering gift sets for Mother's Day
+- Best Easter egg alternatives (non-chocolate gifts)
+- Best Easter basket fillers for kids
+- Best Easter decorations for the home
+- Best Father's Day gifts under £20
+- Best gifts for dads who love DIY
+- Best budget garden furniture sets
+- Best BBQs for small gardens
+- Best outdoor string lights for garden parties
+- Best garden games for adults and kids
+- Best paddling pools for kids
+- Best budget school backpacks
+- Best kids' lunchboxes and water bottles
+- Best stationery sets for back to school
+- Best gifts for tea lovers
+- Best gifts for book lovers
+- Best gifts for gardeners
+- Best gifts for new parents
+- Best gifts under £15 for any occasion
+- Best birthday gift ideas for teenagers
+- Best pet gifts and accessories
 
 ## Done
 
