@@ -1,32 +1,30 @@
-# Trail & Tarp
+# Budget Buys UK
 
-An affiliate content site: budget/beginner camping gear buying guides, monetized through Amazon Associates. Built to run itself after a short one-time setup.
+Live at: https://richardgolding28-gif.github.io/budget-buys-uk/
 
-## One-time setup (only you can do these — tied to your identity)
+An affiliate content site: budget buying guides for UK shoppers (camping/outdoor gear plus Halloween, Christmas, birthdays, and other seasonal shopping), monetized through Amazon Associates UK. Hosted free on GitHub Pages, content is kept flowing by six scheduled cloud routines — no server, no ongoing manual work required.
 
-1. **Create a GitHub repo.** Go to github.com/new, name it (e.g. `camp-gear-guide`), keep it public, don't initialize with a README (this folder already has one). Then from this folder:
-   ```
-   git remote add origin https://github.com/YOUR-USERNAME/camp-gear-guide.git
-   git branch -M main
-   git push -u origin main
-   ```
-2. **Turn on GitHub Pages.** In the repo: Settings → Pages → Source: "Deploy from a branch" → Branch: `main` / `/(root)`. Your site goes live at `https://YOUR-USERNAME.github.io/camp-gear-guide/` within a few minutes.
-3. **Apply to Amazon Associates UK** at https://associates.amazon.co.uk (not the US .com program — as a UK resident with a UK bank account, the UK programme is the one that actually pays out cleanly). You'll need your live site URL from step 2 and a handful of published posts (already done — there are 4). Approval usually takes a few days; Amazon reviews the site for genuine content, which this has.
-4. **Once approved**, put your Associate tag into `_config.yml`:
-   ```yaml
-   amazon_tag: "yourrealtag-21"
-   ```
-   Commit and push that one-line change. Every affiliate link on every post — past and future — updates automatically, because they all read this one value. Links point to amazon.co.uk.
+## Status
 
-That's it. Nothing else here needs your identity or a payment method tied to you personally beyond the Associates signup itself.
+- Amazon Associates UK: approved, tag `trailandtarp-21` (set in `_config.yml`, every affiliate link on the site reads this one value)
+- GitHub Pages: live, auto-rebuilds on every push to `main`
+- Google Search Console: verified (`google_site_verification` in `_config.yml`)
 
-## What runs on its own after that
+## Automation (all configured as claude.ai routines — manage at claude.ai/code/routines)
 
-A scheduled task adds a new buying guide from `CONTENT_QUEUE.md` on a recurring basis, following the same structure as the existing posts (real, current products looked up at write time — never invented), commits it, and pushes. GitHub Pages rebuilds the live site automatically on every push. No app to keep running, no server to maintain — GitHub hosts it for free indefinitely.
+| Routine | Schedule | Purpose |
+|---|---|---|
+| `camp-gear-guide-weekly-post` | Daily, 9am UTC | Writes one new post from `CONTENT_QUEUE.md`'s queue |
+| `camp-gear-guide-trending-topics` | Weekly, Mon | Adds genuinely trending UK product topics to the top of the queue |
+| `camp-gear-guide-monthly-gift-topics` | Monthly | Adds one birthday-gift and one novelty-gift topic, permanently |
+| `camp-gear-guide-christmas-gift-push` | Weekly (Sep–Dec 2026 only) | Ramps gift topics up as Christmas approaches, then auto-stops |
+| `camp-gear-guide-novelty-gifts-november` | One-time, 14 Nov 2026 | Secret Santa / novelty gift topic batch |
+| `camp-gear-guide-monthly-audit` | Monthly | Site health check, replaces discontinued products in old posts, occasional expansion topics |
+
+`CONTENT_QUEUE.md` is the shared queue all of these read from and write to — it's the coordination point between them.
 
 ## What still needs occasional human attention
 
-- Confirming Amazon Associates payouts arrive (they pay ~60 days after the month a sale happens, direct deposit or gift card).
-- Amazon Associates requires at least 3 qualifying sales within 180 days of signup or the account is closed (you re-apply if that happens — no penalty beyond re-applying).
-- If a product a post links to becomes unavailable, the search-based links still work (they link to an Amazon search for the product name, not a fixed product page), so this rarely needs a fix — but a periodic skim is sensible.
-- Realistic expectations: this is slow-burn SEO income. Expect $0 for the first few months while Google indexes and ranks the content, then a small amount if it ranks — not a replacement income on its own.
+- Confirming Amazon Associates payouts arrive (paid ~60 days after the month a sale happens, direct to UK bank account once payment details are set up).
+- If a product a post links to becomes unavailable, the monthly audit job should catch and replace it — but a periodic skim is sensible.
+- Realistic expectations: slow-burn SEO income. Expect little to nothing for the first few months while Google indexes and ranks the content, then a small amount if it ranks — not a replacement income on its own.
