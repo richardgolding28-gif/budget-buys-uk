@@ -57,3 +57,5 @@ Yes, noticeably. Fill it with ice a few hours before loading food and drinks, th
 
 **Hard or soft cooler for a first purchase?**
 Hard, unless you specifically know you'll be carrying it any real distance. It's more versatile, holds temperature longer, and survives being sat or stood on.
+
+{% include related-posts.html %}

@@ -1,0 +1,12 @@
+{% assign related = site.posts | where_exp: "post", "post.url != page.url" %}
+{% assign same_cat = related | where_exp: "post", "post.categories contains page.categories[0]" %}
+{% assign other_cat = related | where_exp: "post", "post.categories[0] != page.categories[0]" %}
+{% assign combined = same_cat | concat: other_cat %}
+<div class="related-posts">
+  <h2>More buying guides</h2>
+  <ul>
+    {% for post in combined limit: 4 %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

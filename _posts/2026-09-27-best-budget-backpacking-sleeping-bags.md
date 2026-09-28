@@ -63,3 +63,5 @@ For 3-season use in most of the US and UK, a 20-30°F (comfort-rated) bag covers
 
 **Can I just use a blanket at home instead?**
 For car camping in mild weather, sure. A sleeping bag earns its keep the moment temperatures drop below about 50°F (10°C) at night or you're sleeping on the ground rather than in a tent with a proper pad underneath.
+
+{% include related-posts.html %}

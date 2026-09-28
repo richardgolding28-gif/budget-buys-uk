@@ -64,3 +64,5 @@ Check for the BS 1970:2012 mark and the manufacture date if it's printed (a smal
 
 **Do covers actually make a difference, or are they just decorative?**
 They do two real things: they slow heat loss so the bottle stays warm longer, and they stop the bottle sitting directly against skin, which reduces the (small but real) risk of a low-temperature burn from prolonged direct contact.
+
+{% include related-posts.html %}

@@ -64,3 +64,5 @@ For the witch and vampire picks, check the listing photos carefully — some inc
 
 **What's the most reusable option here?**
 The witch and vampire costumes age the best, since "classic witch" and "classic vampire" aren't tied to a specific year's trend the way a meme costume would be.
+
+{% include related-posts.html %}

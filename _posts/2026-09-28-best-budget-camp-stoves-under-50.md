@@ -64,3 +64,5 @@ Not in the UK — Campingaz's own cartridges are sold in most supermarkets, gard
 
 **Is a two-burner stove worth it for solo or two-person trips?**
 Usually not — a single burner is lighter, cheaper, and enough for most one-pot camp cooking. The two-burner step-up earns its keep when you're actually cooking more than one thing at once for a group.
+
+{% include related-posts.html %}

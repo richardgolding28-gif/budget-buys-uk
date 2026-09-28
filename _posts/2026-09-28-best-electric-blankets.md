@@ -64,3 +64,5 @@ If you want the bed warm when you climb in, you need an underblanket, which sits
 
 **How much does an electric blanket cost to run?**
 Manufacturer figures for the underblankets here range from roughly 1p to 5p per hour depending on size and setting, which is substantially cheaper than running central heating to achieve the same warmth in one room.
+
+{% include related-posts.html %}

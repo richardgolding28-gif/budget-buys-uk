@@ -63,3 +63,5 @@ It depends entirely on the person — some people genuinely enjoy the tradition 
 
 **What's a safe stocking filler for someone I don't know well?**
 Consumables — sweets, a candle, or a small food item — are the lowest-risk choice, since they don't require knowing someone's specific tastes in the way a novelty gift or a game does, and nobody minds receiving something they'll simply eat or burn through.
+
+{% include related-posts.html %}

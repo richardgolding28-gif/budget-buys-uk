@@ -64,3 +64,5 @@ The scooping and etching tools are fine for most kids with supervision; the saws
 
 **Do the stencils actually work well, or is tracing them fiddly?**
 Poking the stencil outline through with the etching tool before cutting is the part that makes them work — skip that step and freehand from the printed sheet, and results get messy fast. Tape the stencil to the pumpkin first so it doesn't slip while you're poking the outline through.
+
+{% include related-posts.html %}

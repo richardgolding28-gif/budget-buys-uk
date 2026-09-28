@@ -58,3 +58,5 @@ With normal handling and being stored somewhere dry between Christmases, a few y
 
 **Pre-lit or unlit — which should I buy?**
 Pre-lit saves real time every year and looks more even, but if you like changing your light colour scheme, or a section fails, an unlit tree with your own separately bought lights is more flexible to fix and to change.
+
+{% include related-posts.html %}

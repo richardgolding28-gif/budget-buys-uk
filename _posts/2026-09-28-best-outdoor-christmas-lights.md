@@ -58,3 +58,5 @@ As a rough guide, allow 100 LEDs per metre of roofline you want to cover for a r
 
 **Is solar worth it for a whole display?**
 Not usually in the UK from November onward — short, often overcast days mean solar panels rarely get a full charge, so brightness and run time both suffer. Mains power is the more reliable choice for anything you want lit reliably every evening; save solar for garden accents that aren't the main event.
+
+{% include related-posts.html %}

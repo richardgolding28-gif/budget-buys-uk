@@ -63,3 +63,5 @@ The Coleman, Night Cat, and Clostnature options all have full rainflies rated fo
 
 **What size should I actually buy?**
 Add one person to your real headcount. A "2-person" tent fits two adults with almost no gear room; a "3-person" fits two adults comfortably with packs inside.
+
+{% include related-posts.html %}

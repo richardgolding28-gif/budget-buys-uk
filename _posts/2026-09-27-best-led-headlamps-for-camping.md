@@ -57,3 +57,5 @@ Rechargeable for most people — cheaper over a season of use and one less thing
 
 **Is red light mode actually useful, or a gimmick?**
 Genuinely useful — it doesn't blow out your night vision or the eyes of anyone you're facing, and it's dramatically less likely to attract insects than white light.
+
+{% include related-posts.html %}

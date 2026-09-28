@@ -64,3 +64,5 @@ Snug, not tight. It should sit close enough to your skin that there's no loose f
 
 **Can I wear a base layer on its own, or does it need layers on top?**
 It's designed to be part of a layering system and generally isn't as warm worn alone as a proper jumper or fleece — its job is to manage moisture and add a thin layer of insulation under whatever you'd normally wear, not to replace your outer layers.
+
+{% include related-posts.html %}
