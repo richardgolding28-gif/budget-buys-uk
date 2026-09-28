@@ -3,7 +3,7 @@ title: Best Budget Camping Coolers (2026 Buying Guide)
 date: 2026-09-27
 categories:
 - coolers
-excerpt: You don't need a $300 rotomolded cooler for a weekend trip. Here's what actually keeps ice frozen, and what's marketing.
+excerpt: You don't need a £300 rotomolded cooler for a weekend trip. Here's what actually keeps ice frozen, and what's marketing.
 faq:
 - question: Block ice or cubed ice?
   answer: Block ice lasts significantly longer because it has less surface area to melt from — worth the extra effort of making or buying it for anything longer than an overnight trip.

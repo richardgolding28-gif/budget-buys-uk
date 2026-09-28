@@ -1,5 +1,5 @@
 ---
-title: Best LED Headlamps for Camping Under $20 (2026 Buying Guide)
+title: Best LED Headlamps for Camping Under £20 (2026 Buying Guide)
 date: 2026-09-27
 categories:
 - lighting

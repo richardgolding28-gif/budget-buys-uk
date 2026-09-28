@@ -16,7 +16,7 @@ faq:
 {% include disclosure-note.html %}
 {% include faq-schema.html %}
 
-The single most misleading number in outdoor gear is a sleeping bag's temperature rating. Here's what to actually look at, and which bags deliver real value under $100.
+The single most misleading number in outdoor gear is a sleeping bag's temperature rating. Here's what to actually look at, and which bags deliver real value under £100.
 
 ## How to read the numbers
 
@@ -28,7 +28,7 @@ The single most misleading number in outdoor gear is a sleeping bag's temperatur
 ## Our picks
 
 ### Overall pick: TETON Sports 20F/5F Degree Mummy Bag
-TETON has built a loyal following specifically in the budget mummy-bag space, and this one is the reason why — a genuine mummy cut, a two-way zipper, and a compression sack included, all at a price that undercuts most "name brand" options by half. The included compression sack alone is usually a $15-20 add-on elsewhere.
+TETON has built a loyal following specifically in the budget mummy-bag space, and this one is the reason why — a genuine mummy cut, a two-way zipper, and a compression sack included, all at a price that undercuts most "name brand" options by half. The included compression sack alone is usually a £15-20 add-on elsewhere.
 
 {% include amazon-link.html query="Teton Sports 20F Degree Mummy Sleeping Bag" text="Check current price on Amazon" %}
 
