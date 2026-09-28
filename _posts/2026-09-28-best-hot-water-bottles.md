@@ -1,11 +1,20 @@
 ---
-title: "Best Hot Water Bottles (2026 UK Buying Guide)"
+title: Best Hot Water Bottles (2026 UK Buying Guide)
 date: 2026-09-28
-categories: [hot-water-bottles]
-excerpt: "A good hot water bottle is one of the cheapest ways to stay warm in bed. Here's what to check before you buy, and which ones hold up."
+categories:
+- hot-water-bottles
+excerpt: A good hot water bottle is one of the cheapest ways to stay warm in bed. Here's what to check before you buy, and which ones hold up.
+faq:
+- question: How hot should the water be?
+  answer: Boiling water straight from the kettle is generally too hot for a rubber or PVC bottle and can shorten its life or, in rare cases, weaken the seams. Many manufacturers recommend letting boiled water cool slightly or using water that's hot but not still boiling — check your specific bottle's instructions.
+- question: How do I know when to replace a hot water bottle?
+  answer: Check for the BS 1970:2012 mark and the manufacture date if it's printed (a small diamond or clock symbol on some brands), and replace it every 2–3 years regardless of appearance, since the rubber degrades from the inside with repeated heat cycles. Replace immediately at the first sign of cracking, a strong rubber smell, or stiffness.
+- question: Do covers actually make a difference, or are they just decorative?
+  answer: 'They do two real things: they slow heat loss so the bottle stays warm longer, and they stop the bottle sitting directly against skin, which reduces the (small but real) risk of a low-temperature burn from prolonged direct contact.'
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 A hot water bottle is about as low-tech as winter warmth gets, but not all of them are equal — capacity, cover material, and the safety standard printed on the rubber itself all make a real difference to how long it stays warm and how long it lasts. Here's what actually matters, and a few we'd buy.
 
@@ -56,13 +65,6 @@ A 2-litre bottle with a soft knitted roll-neck cover in a heart/true-love design
 
 ## FAQ
 
-**How hot should the water be?**
-Boiling water straight from the kettle is generally too hot for a rubber or PVC bottle and can shorten its life or, in rare cases, weaken the seams. Many manufacturers recommend letting boiled water cool slightly or using water that's hot but not still boiling — check your specific bottle's instructions.
-
-**How do I know when to replace a hot water bottle?**
-Check for the BS 1970:2012 mark and the manufacture date if it's printed (a small diamond or clock symbol on some brands), and replace it every 2–3 years regardless of appearance, since the rubber degrades from the inside with repeated heat cycles. Replace immediately at the first sign of cracking, a strong rubber smell, or stiffness.
-
-**Do covers actually make a difference, or are they just decorative?**
-They do two real things: they slow heat loss so the bottle stays warm longer, and they stop the bottle sitting directly against skin, which reduces the (small but real) risk of a low-temperature burn from prolonged direct contact.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

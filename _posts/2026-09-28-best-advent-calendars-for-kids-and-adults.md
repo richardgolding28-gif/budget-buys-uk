@@ -1,11 +1,20 @@
 ---
-title: "Best Advent Calendars for Kids and Adults (2026 Buying Guide)"
+title: Best Advent Calendars for Kids and Adults (2026 Buying Guide)
 date: 2026-09-28
-categories: [christmas]
-excerpt: "From LEGO and chocolate to beauty and candles — the advent calendars actually worth ordering before they sell out."
+categories:
+- christmas
+excerpt: From LEGO and chocolate to beauty and candles — the advent calendars actually worth ordering before they sell out.
+faq:
+- question: When should I actually order an advent calendar?
+  answer: For LEGO and beauty calendars, aim for September or October — both categories have sold out completely well before December in previous years. Chocolate calendars stay in stock much later since retailers keep restocking through November.
+- question: Are reusable advent calendars worth it?
+  answer: If you want to fill it yourself with sweets, small toys, or notes every year, a wooden or fabric pocket calendar is a one-off purchase that pays for itself after a couple of Christmases — but it means you're responsible for sourcing 24 small items yourself.
+- question: Is a beauty or LEGO calendar actually good value?
+  answer: Usually yes if the recipient will use everything inside — the combined value of the individual items is normally higher than the calendar's price. It's a worse deal if half the contents end up unused, so it's worth checking the full contents list before buying rather than assuming.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 Advent calendars fall into a handful of clear categories — building-toy sets, classic chocolate, and "reveal" calendars for adults built around beauty or home fragrance — and the good ones in each category tend to sell out well before December. Here's what's worth ordering now, and what to check before you do.
 
@@ -55,13 +64,6 @@ Guylian's Belgian chocolate calendar is a step up from mass-market chocolate cal
 
 ## FAQ
 
-**When should I actually order an advent calendar?**
-For LEGO and beauty calendars, aim for September or October — both categories have sold out completely well before December in previous years. Chocolate calendars stay in stock much later since retailers keep restocking through November.
-
-**Are reusable advent calendars worth it?**
-If you want to fill it yourself with sweets, small toys, or notes every year, a wooden or fabric pocket calendar is a one-off purchase that pays for itself after a couple of Christmases — but it means you're responsible for sourcing 24 small items yourself.
-
-**Is a beauty or LEGO calendar actually good value?**
-Usually yes if the recipient will use everything inside — the combined value of the individual items is normally higher than the calendar's price. It's a worse deal if half the contents end up unused, so it's worth checking the full contents list before buying rather than assuming.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

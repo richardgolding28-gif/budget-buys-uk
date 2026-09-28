@@ -1,0 +1,4 @@
+{% if page.faq %}{% for item in page.faq %}**{{ item.question }}**
+{{ item.answer }}
+
+{% endfor %}{% endif %}

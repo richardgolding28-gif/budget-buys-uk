@@ -1,11 +1,20 @@
 ---
-title: "Best LED Headlamps for Camping Under $20 (2026 Buying Guide)"
+title: Best LED Headlamps for Camping Under $20 (2026 Buying Guide)
 date: 2026-09-27
-categories: [lighting]
-excerpt: "Lumens are a marketing number. Here's what to actually check, and four headlamps worth buying."
+categories:
+- lighting
+excerpt: Lumens are a marketing number. Here's what to actually check, and four headlamps worth buying.
+faq:
+- question: Rechargeable or AAA batteries?
+  answer: Rechargeable for most people — cheaper over a season of use and one less thing to buy. If you're going somewhere with no power for a week or more, a AAA model (or a small power bank alongside a rechargeable one) is the safer bet.
+- question: How many lumens do I actually need?
+  answer: 150-300 lumens covers walking, cooking, and reading around camp. You only need the 1000+ lumen modes some of these offer for spotting something at real distance, and running at max brightness drains the battery fast.
+- question: Is red light mode actually useful, or a gimmick?
+  answer: Genuinely useful — it doesn't blow out your night vision or the eyes of anyone you're facing, and it's dramatically less likely to attract insects than white light.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 Headlamps are one of the few categories where the cheap options are frequently just as good as the expensive ones, because the underlying LED and battery technology is commoditized. Here's what's actually worth paying attention to.
 
@@ -49,13 +58,6 @@ If your trips run multiple nights without a charging opportunity, battery life m
 
 ## FAQ
 
-**Rechargeable or AAA batteries?**
-Rechargeable for most people — cheaper over a season of use and one less thing to buy. If you're going somewhere with no power for a week or more, a AAA model (or a small power bank alongside a rechargeable one) is the safer bet.
-
-**How many lumens do I actually need?**
-150-300 lumens covers walking, cooking, and reading around camp. You only need the 1000+ lumen modes some of these offer for spotting something at real distance, and running at max brightness drains the battery fast.
-
-**Is red light mode actually useful, or a gimmick?**
-Genuinely useful — it doesn't blow out your night vision or the eyes of anyone you're facing, and it's dramatically less likely to attract insects than white light.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

@@ -1,11 +1,20 @@
 ---
-title: "Best Thermal Base Layers for Winter (2026 UK Buying Guide)"
+title: Best Thermal Base Layers for Winter (2026 UK Buying Guide)
 date: 2026-09-28
-categories: [base-layers]
-excerpt: "Merino or synthetic, tight or loose — here's what actually keeps you warm under winter layers, and which base layers deliver it."
+categories:
+- base-layers
+excerpt: Merino or synthetic, tight or loose — here's what actually keeps you warm under winter layers, and which base layers deliver it.
+faq:
+- question: Do I need merino, or is synthetic good enough?
+  answer: For occasional winter wear — a few cold walks, standing at a match, general everyday warmth — synthetic is genuinely good enough and far cheaper to replace. Merino earns its price if you're wearing a base layer for multiple days in a row without laundry access, since it resists smelling long after synthetic fabric would.
+- question: Should a base layer feel tight?
+  answer: Snug, not tight. It should sit close enough to your skin that there's no loose fabric bunching under your mid-layer, but you should be able to move your arms and shoulders freely. If it restricts movement or digs in at the seams, size up.
+- question: Can I wear a base layer on its own, or does it need layers on top?
+  answer: It's designed to be part of a layering system and generally isn't as warm worn alone as a proper jumper or fleece — its job is to manage moisture and add a thin layer of insulation under whatever you'd normally wear, not to replace your outer layers.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 A good base layer does most of the real work in a winter outfit — it's the layer against your skin that traps warm air and moves sweat away, and getting it wrong makes every layer on top of it less effective. Here's what actually matters when choosing one, and a few real options across different budgets.
 
@@ -56,13 +65,6 @@ Damart is a long-established UK thermal-wear specialist, and this half-zip top u
 
 ## FAQ
 
-**Do I need merino, or is synthetic good enough?**
-For occasional winter wear — a few cold walks, standing at a match, general everyday warmth — synthetic is genuinely good enough and far cheaper to replace. Merino earns its price if you're wearing a base layer for multiple days in a row without laundry access, since it resists smelling long after synthetic fabric would.
-
-**Should a base layer feel tight?**
-Snug, not tight. It should sit close enough to your skin that there's no loose fabric bunching under your mid-layer, but you should be able to move your arms and shoulders freely. If it restricts movement or digs in at the seams, size up.
-
-**Can I wear a base layer on its own, or does it need layers on top?**
-It's designed to be part of a layering system and generally isn't as warm worn alone as a proper jumper or fleece — its job is to manage moisture and add a thin layer of insulation under whatever you'd normally wear, not to replace your outer layers.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

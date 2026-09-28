@@ -1,11 +1,20 @@
 ---
-title: "Best Budget Backpacking Sleeping Bags (2026 Buying Guide)"
+title: Best Budget Backpacking Sleeping Bags (2026 Buying Guide)
 date: 2026-09-27
-categories: [sleeping-bags]
-excerpt: "How to read a temperature rating, and five sleeping bags that won't leave you cold or broke."
+categories:
+- sleeping-bags
+excerpt: How to read a temperature rating, and five sleeping bags that won't leave you cold or broke.
+faq:
+- question: Synthetic or down?
+  answer: Down if you want less weight and bulk and can keep it reasonably dry. Synthetic if you'll be somewhere wet, or want something that dries faster and costs less up front.
+- question: What temperature rating do I actually need?
+  answer: For 3-season use in most of the US and UK, a 20-30°F (comfort-rated) bag covers the vast majority of trips. Only go colder-rated if you specifically plan on winter camping.
+- question: Can I just use a blanket at home instead?
+  answer: For car camping in mild weather, sure. A sleeping bag earns its keep the moment temperatures drop below about 50°F (10°C) at night or you're sleeping on the ground rather than in a tent with a proper pad underneath.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 The single most misleading number in outdoor gear is a sleeping bag's temperature rating. Here's what to actually look at, and which bags deliver real value under $100.
 
@@ -55,13 +64,6 @@ Kelty's Cosmic line is a genuine step up in construction quality — 550 fill po
 
 ## FAQ
 
-**Synthetic or down?**
-Down if you want less weight and bulk and can keep it reasonably dry. Synthetic if you'll be somewhere wet, or want something that dries faster and costs less up front.
-
-**What temperature rating do I actually need?**
-For 3-season use in most of the US and UK, a 20-30°F (comfort-rated) bag covers the vast majority of trips. Only go colder-rated if you specifically plan on winter camping.
-
-**Can I just use a blanket at home instead?**
-For car camping in mild weather, sure. A sleeping bag earns its keep the moment temperatures drop below about 50°F (10°C) at night or you're sleeping on the ground rather than in a tent with a proper pad underneath.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

@@ -1,11 +1,20 @@
 ---
-title: "Best Budget Camping Coolers (2026 Buying Guide)"
+title: Best Budget Camping Coolers (2026 Buying Guide)
 date: 2026-09-27
-categories: [coolers]
-excerpt: "You don't need a $300 rotomolded cooler for a weekend trip. Here's what actually keeps ice frozen, and what's marketing."
+categories:
+- coolers
+excerpt: You don't need a $300 rotomolded cooler for a weekend trip. Here's what actually keeps ice frozen, and what's marketing.
+faq:
+- question: Block ice or cubed ice?
+  answer: Block ice lasts significantly longer because it has less surface area to melt from — worth the extra effort of making or buying it for anything longer than an overnight trip.
+- question: Does pre-chilling the cooler actually help?
+  answer: Yes, noticeably. Fill it with ice a few hours before loading food and drinks, then dump that ice and refill right before you leave — the pre-chilled walls hold temperature far better from the start.
+- question: Hard or soft cooler for a first purchase?
+  answer: Hard, unless you specifically know you'll be carrying it any real distance. It's more versatile, holds temperature longer, and survives being sat or stood on.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 Premium rotomolded coolers (the thick-walled, YETI-style kind) genuinely hold ice longer, but for weekend trips the gap matters far less than the price gap suggests. Here's how to buy the right cooler for how you actually camp.
 
@@ -49,13 +58,6 @@ A step up in build quality and ice retention over the Coleman options, from a br
 
 ## FAQ
 
-**Block ice or cubed ice?**
-Block ice lasts significantly longer because it has less surface area to melt from — worth the extra effort of making or buying it for anything longer than an overnight trip.
-
-**Does pre-chilling the cooler actually help?**
-Yes, noticeably. Fill it with ice a few hours before loading food and drinks, then dump that ice and refill right before you leave — the pre-chilled walls hold temperature far better from the start.
-
-**Hard or soft cooler for a first purchase?**
-Hard, unless you specifically know you'll be carrying it any real distance. It's more versatile, holds temperature longer, and survives being sat or stood on.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

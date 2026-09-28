@@ -1,11 +1,20 @@
 ---
-title: "Best Artificial Christmas Trees Under £100 (2026 Buying Guide)"
+title: Best Artificial Christmas Trees Under £100 (2026 Buying Guide)
 date: 2026-09-28
-categories: [christmas]
-excerpt: "You don't need to spend hundreds on a realistic-looking tree. Here's what to check under £100, and which ones hold up."
+categories:
+- christmas
+excerpt: You don't need to spend hundreds on a realistic-looking tree. Here's what to check under £100, and which ones hold up.
+faq:
+- question: Do I need to buy a tree skirt or stand separately?
+  answer: Check the individual listing — some of these include a stand and even a skirt, others just the tree. It's worth confirming before you buy if you don't already have a stand from a previous tree.
+- question: How long do budget artificial trees actually last?
+  answer: With normal handling and being stored somewhere dry between Christmases, a few years is realistic before branches start looking sparse or hinges loosen. Cheaper trees generally show wear faster than expensive ones, but a well cared-for budget tree easily outlasts a single-use real tree many times over on cost.
+- question: Pre-lit or unlit — which should I buy?
+  answer: Pre-lit saves real time every year and looks more even, but if you like changing your light colour scheme, or a section fails, an unlit tree with your own separately bought lights is more flexible to fix and to change.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 Under £100, artificial Christmas trees split into two real categories: ones that look genuinely decent for the money, and ones that look obviously cheap the moment the lights go on. The difference usually comes down to branch density and how the tips are made, not the headline height. Here's what to look for, and a handful of budget trees worth considering.
 
@@ -50,13 +59,6 @@ A slim "pencil" profile with 529 branch tips and 180 built-in lights, designed f
 
 ## FAQ
 
-**Do I need to buy a tree skirt or stand separately?**
-Check the individual listing — some of these include a stand and even a skirt, others just the tree. It's worth confirming before you buy if you don't already have a stand from a previous tree.
-
-**How long do budget artificial trees actually last?**
-With normal handling and being stored somewhere dry between Christmases, a few years is realistic before branches start looking sparse or hinges loosen. Cheaper trees generally show wear faster than expensive ones, but a well cared-for budget tree easily outlasts a single-use real tree many times over on cost.
-
-**Pre-lit or unlit — which should I buy?**
-Pre-lit saves real time every year and looks more even, but if you like changing your light colour scheme, or a section fails, an unlit tree with your own separately bought lights is more flexible to fix and to change.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

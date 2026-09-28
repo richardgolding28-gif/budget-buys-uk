@@ -1,11 +1,20 @@
 ---
-title: "Best Budget Camping Tents Under $150 (2026 Buying Guide)"
+title: Best Budget Camping Tents Under $150 (2026 Buying Guide)
 date: 2026-09-27
-categories: [tents]
-excerpt: "Five solid 2-4 person tents that won't leak, won't blow away, and won't cost you $300."
+categories:
+- tents
+excerpt: Five solid 2-4 person tents that won't leak, won't blow away, and won't cost you $300.
+faq:
+- question: Do I need a footprint (ground tarp)?
+  answer: Not strictly, but a $10-15 footprint under any of these will meaningfully extend the life of the floor and is cheaper than a puncture repair.
+- question: Will these handle real rain?
+  answer: The Coleman, Night Cat, and Clostnature options all have full rainflies rated for sustained rain. Pitch the rainfly taut and you'll be fine in anything short of a storm.
+- question: What size should I actually buy?
+  answer: Add one person to your real headcount. A "2-person" tent fits two adults with almost no gear room; a "3-person" fits two adults comfortably with packs inside.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 You don't need to spend $300 on a tent for weekend car camping or the occasional backpacking trip. Below $150, there's a real gap between tents that are genuinely fine and tents that will let water in the first time it rains. Here's how to tell the difference, and which ones we'd actually buy.
 
@@ -55,13 +64,6 @@ Kelty is a genuine backpacking brand rather than a big-box generalist, and the L
 
 ## FAQ
 
-**Do I need a footprint (ground tarp)?**
-Not strictly, but a $10-15 footprint under any of these will meaningfully extend the life of the floor and is cheaper than a puncture repair.
-
-**Will these handle real rain?**
-The Coleman, Night Cat, and Clostnature options all have full rainflies rated for sustained rain. Pitch the rainfly taut and you'll be fine in anything short of a storm.
-
-**What size should I actually buy?**
-Add one person to your real headcount. A "2-person" tent fits two adults with almost no gear room; a "3-person" fits two adults comfortably with packs inside.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

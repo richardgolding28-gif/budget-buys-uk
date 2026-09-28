@@ -1,11 +1,20 @@
 ---
-title: "Best Adult Halloween Costumes Under £30 (2026 Buying Guide)"
+title: Best Adult Halloween Costumes Under £30 (2026 Buying Guide)
 date: 2026-09-28
-categories: [halloween]
-excerpt: "You don't need to spend £50+ on a costume you'll wear once. Five adult options that actually look decent for under £30, from classic vampire to the reliably ridiculous banana suit."
+categories:
+- halloween
+excerpt: You don't need to spend £50+ on a costume you'll wear once. Five adult options that actually look decent for under £30, from classic vampire to the reliably ridiculous banana suit.
+faq:
+- question: Will these actually keep me warm at an outdoor Halloween event?
+  answer: Not on their own — all of these are costume-weight fabric, not outerwear. Plan to wear something warm underneath or bring a coat you can put on between photos.
+- question: Do I need to buy accessories separately?
+  answer: For the witch and vampire picks, check the listing photos carefully — some include the hat/belt shown and some don't. The skeleton and banana costumes are simpler one-piece outfits with nothing extra needed.
+- question: What's the most reusable option here?
+  answer: The witch and vampire costumes age the best, since "classic witch" and "classic vampire" aren't tied to a specific year's trend the way a meme costume would be.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 Adult Halloween costumes fall into two camps at the budget end: genuinely wearable outfits that hold up for a night out, and thin, single-use novelty pieces that look fine in the product photo and nowhere else. Here's how to tell them apart, and five that are worth the money.
 
@@ -56,13 +65,6 @@ A jacket, hat, and cravat set that's built to go over a plain white shirt and bl
 
 ## FAQ
 
-**Will these actually keep me warm at an outdoor Halloween event?**
-Not on their own — all of these are costume-weight fabric, not outerwear. Plan to wear something warm underneath or bring a coat you can put on between photos.
-
-**Do I need to buy accessories separately?**
-For the witch and vampire picks, check the listing photos carefully — some include the hat/belt shown and some don't. The skeleton and banana costumes are simpler one-piece outfits with nothing extra needed.
-
-**What's the most reusable option here?**
-The witch and vampire costumes age the best, since "classic witch" and "classic vampire" aren't tied to a specific year's trend the way a meme costume would be.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

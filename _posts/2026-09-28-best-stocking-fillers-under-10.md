@@ -1,11 +1,20 @@
 ---
-title: "Best Stocking Fillers Under £10 (2026 Buying Guide)"
+title: Best Stocking Fillers Under £10 (2026 Buying Guide)
 date: 2026-09-28
-categories: [christmas]
-excerpt: "Small, genuinely useful or genuinely fun stocking fillers under £10 — for kids and adults, not just filler for filler's sake."
+categories:
+- christmas
+excerpt: Small, genuinely useful or genuinely fun stocking fillers under £10 — for kids and adults, not just filler for filler's sake.
+faq:
+- question: How many stocking fillers should I actually buy per person?
+  answer: There's no fixed number, but four to six small items usually fills a standard stocking without it looking sparse or looking like you've just tipped in random shop-floor items. Mix at least one "useful" item with one or two "just for fun" ones.
+- question: Are novelty items actually worth buying, or are they just clutter?
+  answer: It depends entirely on the person — some people genuinely enjoy the tradition of a silly stocking-filler gift every year, others will use it once and bin it. If you're not sure, lean toward items with an actual use (socks, sweets, a candle) over pure novelty.
+- question: What's a safe stocking filler for someone I don't know well?
+  answer: Consumables — sweets, a candle, or a small food item — are the lowest-risk choice, since they don't require knowing someone's specific tastes in the way a novelty gift or a game does, and nobody minds receiving something they'll simply eat or burn through.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 The best stocking fillers are either something the person will actually use, or something small and fun enough that it doesn't matter if they don't. The worst are neither — generic tat that gets binned by New Year. Here's how to tell the difference under a £10 budget, and a handful of specific ideas that hold up.
 
@@ -55,13 +64,6 @@ A pair of festive novelty socks is a stocking-filler cliché for a reason — ch
 
 ## FAQ
 
-**How many stocking fillers should I actually buy per person?**
-There's no fixed number, but four to six small items usually fills a standard stocking without it looking sparse or looking like you've just tipped in random shop-floor items. Mix at least one "useful" item with one or two "just for fun" ones.
-
-**Are novelty items actually worth buying, or are they just clutter?**
-It depends entirely on the person — some people genuinely enjoy the tradition of a silly stocking-filler gift every year, others will use it once and bin it. If you're not sure, lean toward items with an actual use (socks, sweets, a candle) over pure novelty.
-
-**What's a safe stocking filler for someone I don't know well?**
-Consumables — sweets, a candle, or a small food item — are the lowest-risk choice, since they don't require knowing someone's specific tastes in the way a novelty gift or a game does, and nobody minds receiving something they'll simply eat or burn through.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

@@ -1,11 +1,20 @@
 ---
-title: "Best Outdoor Christmas Lights (2026 Buying Guide)"
+title: Best Outdoor Christmas Lights (2026 Buying Guide)
 date: 2026-09-28
-categories: [christmas]
-excerpt: "Icicle lights, net lights, and solar strings that survive a UK winter without a rewire every year — here's what actually matters before you buy."
+categories:
+- christmas
+excerpt: Icicle lights, net lights, and solar strings that survive a UK winter without a rewire every year — here's what actually matters before you buy.
+faq:
+- question: Are outdoor Christmas lights safe to leave out in the rain?
+  answer: Yes, as long as they're rated at least IP44 and any plug or connector joints are kept off wet ground — ideally up on a hook or inside a dry connector cover. Don't use indoor-only lights outside even under cover; the rating on the box is there for a reason.
+- question: How many lights do I actually need?
+  answer: As a rough guide, allow 100 LEDs per metre of roofline you want to cover for a reasonably dense look, and go up from there for anything you want to look "full" rather than sparse. It's much easier to buy connectable sets and add a second one than to guess high and return things.
+- question: Is solar worth it for a whole display?
+  answer: Not usually in the UK from November onward — short, often overcast days mean solar panels rarely get a full charge, so brightness and run time both suffer. Mains power is the more reliable choice for anything you want lit reliably every evening; save solar for garden accents that aren't the main event.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 Outdoor Christmas lights live a harder life than anything you put on the tree — they sit outside in the rain and frost for six weeks, get switched on and off every night, and usually get dragged out of a loft or shed the following year having been wound up badly. A few sensible checks before you buy save you from a dead string on 1 December.
 
@@ -50,13 +59,6 @@ For a fence line, path edge, or garden feature where running a mains cable isn't
 
 ## FAQ
 
-**Are outdoor Christmas lights safe to leave out in the rain?**
-Yes, as long as they're rated at least IP44 and any plug or connector joints are kept off wet ground — ideally up on a hook or inside a dry connector cover. Don't use indoor-only lights outside even under cover; the rating on the box is there for a reason.
-
-**How many lights do I actually need?**
-As a rough guide, allow 100 LEDs per metre of roofline you want to cover for a reasonably dense look, and go up from there for anything you want to look "full" rather than sparse. It's much easier to buy connectable sets and add a second one than to guess high and return things.
-
-**Is solar worth it for a whole display?**
-Not usually in the UK from November onward — short, often overcast days mean solar panels rarely get a full charge, so brightness and run time both suffer. Mains power is the more reliable choice for anything you want lit reliably every evening; save solar for garden accents that aren't the main event.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

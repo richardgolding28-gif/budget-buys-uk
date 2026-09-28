@@ -1,11 +1,20 @@
 ---
-title: "Best Electric Blankets (2026 UK Buying Guide)"
+title: Best Electric Blankets (2026 UK Buying Guide)
 date: 2026-09-28
-categories: [electric-blankets]
-excerpt: "Underblankets, heated throws, and how to pick the right one for your bed size and budget without overpaying."
+categories:
+- electric-blankets
+excerpt: Underblankets, heated throws, and how to pick the right one for your bed size and budget without overpaying.
+faq:
+- question: Is it safe to leave an electric blanket on all night?
+  answer: Most underblankets are designed to pre-warm the bed before you get in, then either be switched off or left on a low, thermostatically controlled setting — check the specific instructions for your model. An auto-off timer is a useful safeguard either way, and any fraying cable, scorch mark, or blanket older than about ten years should be replaced rather than risked.
+- question: Underblanket or heated throw — which do I actually need?
+  answer: If you want the bed warm when you climb in, you need an underblanket, which sits beneath your fitted sheet. If you want something to sit under while awake on the sofa, you need a heated throw, which sits on top of you like a blanket. They're built and rated differently, so don't substitute one for the other.
+- question: How much does an electric blanket cost to run?
+  answer: Manufacturer figures for the underblankets here range from roughly 1p to 5p per hour depending on size and setting, which is substantially cheaper than running central heating to achieve the same warmth in one room.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 Electric blankets are one of the cheapest ways to stay warm through a UK winter without turning the heating up — most underblankets cost only a penny or two per hour to run. The tricky part is knowing whether you want an underblanket (goes on the bed, under your sheet) or a heated throw (sits on top of you on the sofa), and which features are actually worth paying extra for. Here's what to look for, and which ones we'd buy.
 
@@ -56,13 +65,6 @@ A step up from a basic throw: luxury fleece, 9 heat settings (more granularity t
 
 ## FAQ
 
-**Is it safe to leave an electric blanket on all night?**
-Most underblankets are designed to pre-warm the bed before you get in, then either be switched off or left on a low, thermostatically controlled setting — check the specific instructions for your model. An auto-off timer is a useful safeguard either way, and any fraying cable, scorch mark, or blanket older than about ten years should be replaced rather than risked.
-
-**Underblanket or heated throw — which do I actually need?**
-If you want the bed warm when you climb in, you need an underblanket, which sits beneath your fitted sheet. If you want something to sit under while awake on the sofa, you need a heated throw, which sits on top of you like a blanket. They're built and rated differently, so don't substitute one for the other.
-
-**How much does an electric blanket cost to run?**
-Manufacturer figures for the underblankets here range from roughly 1p to 5p per hour depending on size and setting, which is substantially cheaper than running central heating to achieve the same warmth in one room.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

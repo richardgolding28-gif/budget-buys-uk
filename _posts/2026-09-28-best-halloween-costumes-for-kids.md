@@ -1,11 +1,20 @@
 ---
-title: "Best Halloween Costumes for Kids (2026 Buying Guide)"
+title: Best Halloween Costumes for Kids (2026 Buying Guide)
 date: 2026-09-28
-categories: [halloween]
-excerpt: "From toddler pumpkins to trick-or-treat-ready skeletons — five kids' costumes that are actually warm, comfortable, and won't fall apart before the sweets run out."
+categories:
+- halloween
+excerpt: From toddler pumpkins to trick-or-treat-ready skeletons — five kids' costumes that are actually warm, comfortable, and won't fall apart before the sweets run out.
+faq:
+- question: What should my child wear underneath?
+  answer: A plain long-sleeve top and leggings under almost any of these works well and keeps them warm without changing how the costume looks. Avoid bulky jumpers under anything with attached arms — check the sizing first.
+- question: Are these safe for trick-or-treating after dark?
+  answer: The costumes themselves are fine, but none of these include reflective strips or built-in lights, so it's worth adding a cheap glow stick, torch, or reflective band separately if you're out after sunset.
+- question: Should I size up?
+  answer: Generally yes, especially for anything worn over a coat or thick jumper — kids' fancy dress at this price tends to run on the small side compared to normal clothing sizes.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 Kids' Halloween costumes live or die on a few boring details that never make the product photo: whether the fabric is warm enough for an October evening, whether a four-year-old can actually walk and sit down in it, and whether it survives being worn for a school parade and then trick-or-treating the same week. Here's what to check, and five costumes worth buying.
 
@@ -56,13 +65,6 @@ A proper dress-hat-and-tights witch set rather than a single printed dress, whic
 
 ## FAQ
 
-**What should my child wear underneath?**
-A plain long-sleeve top and leggings under almost any of these works well and keeps them warm without changing how the costume looks. Avoid bulky jumpers under anything with attached arms — check the sizing first.
-
-**Are these safe for trick-or-treating after dark?**
-The costumes themselves are fine, but none of these include reflective strips or built-in lights, so it's worth adding a cheap glow stick, torch, or reflective band separately if you're out after sunset.
-
-**Should I size up?**
-Generally yes, especially for anything worn over a coat or thick jumper — kids' fancy dress at this price tends to run on the small side compared to normal clothing sizes.
+{% include faq-section.html %}
 
 {% include related-posts.html %}

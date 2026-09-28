@@ -1,11 +1,20 @@
 ---
-title: "Best Budget Camp Stoves Under £50 (2026 Buying Guide)"
+title: Best Budget Camp Stoves Under £50 (2026 Buying Guide)
 date: 2026-09-28
-categories: [cooking]
-excerpt: "You don't need a £150 expedition stove to boil water and fry bacon at a campsite. Five stoves that won't let you down."
+categories:
+- cooking
+excerpt: You don't need a £150 expedition stove to boil water and fry bacon at a campsite. Five stoves that won't let you down.
+faq:
+- question: Do I need a windscreen if my stove doesn't have one?
+  answer: For anywhere exposed — open fields, coastal campsites, anywhere in the UK really — yes. A cheap foldable windscreen costs very little and makes a bigger difference to boil times than most other upgrades.
+- question: Are Campingaz cartridges harder to find than screw-thread canisters?
+  answer: Not in the UK — Campingaz's own cartridges are sold in most supermarkets, garden centres, and outdoor shops alongside standard screw-thread canisters. It's more a question of which one your local shop stocks, since the two aren't interchangeable.
+- question: Is a two-burner stove worth it for solo or two-person trips?
+  answer: Usually not — a single burner is lighter, cheaper, and enough for most one-pot camp cooking. The two-burner step-up earns its keep when you're actually cooking more than one thing at once for a group.
 ---
 
 {% include disclosure-note.html %}
+{% include faq-schema.html %}
 
 Most weekend campers only need a stove that lights first time, holds a simmer, and packs away small. You don't need to spend big to get that — but you do need to know which corners a cheap stove is allowed to cut and which ones matter. Here's what to check, and five stoves worth buying.
 
@@ -56,13 +65,6 @@ If you're cooking for more than one or two people, a single burner gets limiting
 
 ## FAQ
 
-**Do I need a windscreen if my stove doesn't have one?**
-For anywhere exposed — open fields, coastal campsites, anywhere in the UK really — yes. A cheap foldable windscreen costs very little and makes a bigger difference to boil times than most other upgrades.
-
-**Are Campingaz cartridges harder to find than screw-thread canisters?**
-Not in the UK — Campingaz's own cartridges are sold in most supermarkets, garden centres, and outdoor shops alongside standard screw-thread canisters. It's more a question of which one your local shop stocks, since the two aren't interchangeable.
-
-**Is a two-burner stove worth it for solo or two-person trips?**
-Usually not — a single burner is lighter, cheaper, and enough for most one-pot camp cooking. The two-burner step-up earns its keep when you're actually cooking more than one thing at once for a group.
+{% include faq-section.html %}
 
 {% include related-posts.html %}
