@@ -8,7 +8,6 @@ Order matters, on two axes: (1) near-term seasonal urgency — a Halloween topic
 
 ## Queue (next up first)
 
-- Best Halloween sweets and treats for trick-or-treaters
 - Best stocking fillers for him
 - Best stocking fillers for her
 - Best budget Christmas gifts for kids
@@ -70,6 +69,7 @@ Order matters, on two axes: (1) near-term seasonal urgency — a Halloween topic
 
 ## Done
 
+- Best Halloween sweets and treats for trick-or-treaters (2026-09-30)
 - Best Halloween garden and window decorations (2026-09-29)
 - Best budget camp stoves under $50 (2026-09-28)
 - Best budget camping tents under $150 (2026-09-27)
