@@ -38,10 +38,10 @@ The women's equivalent in the same Craghoppers merino range, with a crew neck cu
 
 {% include amazon-link.html query="Craghoppers Women's Merino Crew Neck Base Layer" text="Check current price on Amazon" %}
 
-### Budget pick: Regatta Men Premium Long Sleeve Base Layer
+### Budget pick: Regatta Professional Long Sleeve Base Layer Thermal T-Shirt
 A synthetic base layer from another established UK outdoor brand, built for thermal protection with reasonable wicking and quick drying. It won't match merino for multi-day odour resistance, but for the price it's a sensible starting point if you're not sure how much winter base-layer use you'll actually get.
 
-{% include amazon-link.html query="Regatta Men Premium Long Sleeve Base Layer" text="Check current price on Amazon" %}
+{% include amazon-link.html query="Regatta Professional Long Sleeve Base Layer Thermal T-Shirt" text="Check current price on Amazon" %}
 
 ### Best value set: Regatta Mens Thermal Long Sleeve Outdoor Baselayer Set
 A matching top-and-bottom set rather than buying pieces separately, in a knitted polyester fabric with a fleece back and underarm gussets for freer movement. Buying a set is usually cheaper than two separate Regatta pieces, and it's a straightforward way to cover both halves of your outfit in one purchase.
@@ -59,7 +59,7 @@ Damart is a long-established UK thermal-wear specialist, and this half-zip top u
 |---|---|---|---|
 | Craghoppers Men's Merino Tight | Merino blend | Close | All-around, multi-day wear |
 | Craghoppers Women's Merino Crew Neck | Merino blend | Close | Women's all-around |
-| Regatta Premium Long Sleeve | Synthetic | Regular | Tightest budget |
+| Regatta Professional Long Sleeve | Synthetic | Regular | Tightest budget |
 | Regatta Baselayer Set | Synthetic, fleece back | Regular | Top + bottom in one purchase |
 | Damart Thermolactyl Half-Zip | Polyester/Lyocell/elastane | Regular | Everyday indoor/commute warmth |
 

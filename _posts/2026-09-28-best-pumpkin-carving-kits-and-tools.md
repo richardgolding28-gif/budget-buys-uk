@@ -43,15 +43,15 @@ A 7-piece stainless steel set with non-slip ABS handles, built specifically to s
 
 {% include amazon-link.html query="Taspire Pumpkin Carving Kit with Stencils" text="Check current price on Amazon" %}
 
-### Best-known brand: Pumpkin Masters Masters Collection Carving Kit
-Pumpkin Masters has been the default carving-kit brand for decades, and this set — 5 tools and 8 patterns — is the straightforward version of that reputation rather than a gimmicked-up variant. A safe pick if you'd rather buy the brand people already trust than compare specs between less familiar names.
+### Most tools for the money: OWUDE Professional Pumpkin Carving Kit
+An 11-piece stainless steel set — six double-sided sculpting tools plus a scoop, saws, an etching tool and a drill — supplied with a carrying case and 10 paper templates. It's been picked out by UK reviewers as one of the better all-round kits on the market, and makes sense if you want more tool variety than a basic 4-piece set without paying specialist prices.
 
-{% include amazon-link.html query="Pumpkin Masters Masters Collection Carving Kit 5 Tools 8 Patterns" text="Check current price on Amazon" %}
+{% include amazon-link.html query="OWUDE Professional Pumpkin Carving Kit 11 Piece Stainless Steel" text="Check current price on Amazon" %}
 
-### Best for a group or family carving session: Pumpkin Masters Carving Party Kit
-Built for carving more than one pumpkin at once — 4 saws, 2 scoops, a drill, a poker, and a crayon for tracing patterns onto the skin. If Halloween at your house means several pumpkins on the table at the same time, this avoids everyone fighting over one saw.
+### Best for a group or family carving session: Nabance Halloween Pumpkin Carving Kit
+Built with two saws, a scoop, a drill, a poker and six further sculpting tools, plus a storage bag and 10 printed templates, so two people can genuinely be carving different pumpkins at the same time rather than waiting on a single saw. If Halloween at your house means several pumpkins on the table at once, the extra tool count is the point.
 
-{% include amazon-link.html query="Pumpkin Masters Carving Party Kit" text="Check current price on Amazon" %}
+{% include amazon-link.html query="Nabance Halloween Pumpkin Carving Kit 13 Piece Templates" text="Check current price on Amazon" %}
 
 ## Quick comparison
 
@@ -60,8 +60,8 @@ Built for carving more than one pumpkin at once — 4 saws, 2 scoops, a drill, a
 | AMOS Heavy-Duty Set | 4 (scoop, 2 saws, etching tool) + LED light | 16 designs | All-round best pick |
 | AMOS Carving Kit | Fewer tools + flameless LED | 16 designs | Tightest budget |
 | Taspire Kit | 7-piece stainless steel | Included | Fine detail work |
-| Pumpkin Masters Masters Collection | 5 tools | 8 patterns | Trusted brand name |
-| Pumpkin Masters Party Kit | 4 saws, 2 scoops, drill, poker, crayon | Included | Carving several pumpkins at once |
+| OWUDE Professional Kit | 11-piece stainless steel + carrying case | 10 templates | Most tools for the money |
+| Nabance Carving Kit | 2 saws, scoop, drill, poker + 6 tools | 10 templates | Carving several pumpkins at once |
 
 ## FAQ
 
