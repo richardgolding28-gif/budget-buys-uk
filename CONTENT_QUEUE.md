@@ -16,14 +16,18 @@ Order matters, on two axes: (1) near-term seasonal urgency — a Halloween topic
 - Best Christmas jumpers
 - Best Christmas gifts for dog and cat owners
 - Best gifts for coffee lovers
+- Best budget air fryers
+- Best budget wireless earbuds under £30
 - Best Christmas food hampers under £30
 - Best Christmas gifts for grandparents
 - Best Christmas gifts for teachers
 - Best first Christmas gifts for babies and toddlers
 - Best space heaters for small rooms
+- Best dehumidifiers for damp homes
 - Best winter coats under £60
 - Best car winter emergency kits
 - Best thermal gloves and hats
+- Best slippers for winter
 - Best draught excluders for doors
 - Best ice scrapers and de-icers for cars
 - Best budget home gym equipment for New Year
