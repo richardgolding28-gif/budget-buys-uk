@@ -33,10 +33,10 @@ Five different foam headstone designs with a stone or wood-effect finish, suppli
 
 {% include amazon-link.html query="JOYIN 17 Halloween Foam Graveyard Tombstones 5 Pack Metal Stakes" text="Check current price on Amazon" %}
 
-### Best hanging decoration: JOYIN 3 Pack 50" Halloween Hanging Decoration Combo Set
-A witch, a grim reaper and a pumpkin figure, each around 50 inches tall, designed to hang from a porch eave, tree branch or hook by the front door. Hanging figures fill vertical space that ground-based props can't, and having three different characters in one set avoids the front of the house looking repetitive.
+### Best hanging decoration: JOYIN 3 Pack Halloween Hanging Skeleton Ghost and Grim Reapers
+A 35-inch hanging ghost skeleton paired with two 25-inch grim reapers, each with bendable wire arms so they can be posed reaching out, floating, or draped over a porch rail. Hanging figures fill vertical space that ground-based props can't, and having three different poses from one set avoids the front of the house looking repetitive.
 
-{% include amazon-link.html query="JOYIN 3 Pack 50 Inch Halloween Hanging Decoration Combo Set Witch Grim Reaper Pumpkin" text="Check current price on Amazon" %}
+{% include amazon-link.html query="JOYIN 3 Pack Halloween Decorations Skeleton Ghost Grim Reapers 35 Inch Hanging" text="Check current price on Amazon" %}
 
 ### Best outdoor lighting: Lights4fun Halloween Pumpkin LED Colour-Changing Jack-O-Lantern
 A battery-powered, indoor/outdoor rated jack-o'-lantern that slowly cycles through colours after dark rather than staying a single static orange. It's a tidy way to light a porch step or windowsill without running an extension cable outside, and being battery-powered means it can go anywhere a plug socket can't reach.

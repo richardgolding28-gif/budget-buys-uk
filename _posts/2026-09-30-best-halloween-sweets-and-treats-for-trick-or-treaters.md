@@ -33,10 +33,10 @@ A pre-packed hamper-style box built specifically for handing out at the door, wi
 
 {% include amazon-link.html query="Bulk Halloween Sweets Box Trick or Treat Selection Box Hamper" text="Check current price on Amazon" %}
 
-### Budget pick: BON BAG Spooky Mix Halloween Sweets 1L Pouch (800g)
-An 800g resealable pouch of mixed Halloween sweets that works out cheaper per piece than smaller pre-boxed options, and the wide resealable opening makes it easy to just dip a hand in and grab a couple of pieces per child without fiddling with a box lid. The pouch reseals properly afterwards too, so whatever's left doesn't go stale before Bonfire Night.
+### Budget pick: MyCandyShop Halloween Jelly Sweets 500g Bag
+A 500g bag of mixed Halloween jelly sweets — jelly brains, pumpkin jellies, witches and Dracula teeth — that works out cheaper per piece than smaller pre-boxed options, and the resealable bag makes it easy to just dip a hand in and grab a couple of pieces per child without fiddling with a box lid. Whatever's left afterwards keeps fine sealed in the bag until Bonfire Night.
 
-{% include amazon-link.html query="BON BAG Spooky Mix Halloween Sweets 1L Pouch Bulk Halloween Candy Resealable" text="Check current price on Amazon" %}
+{% include amazon-link.html query="MyCandyShop Halloween Jelly Sweets 500g Trick or Treat Candy Bulk" text="Check current price on Amazon" %}
 
 ### Best individually wrapped: Halloween Chocolate Neapolitans, Pack of 50
 Fifty individually wrapped milk chocolate squares in Halloween-themed foil designs, which is about as close to grab-and-go as sweets get — no unwrapping needed on your end, and each piece is sealed until the child opens it themselves. It's a straightforward, mess-free option if you'd rather stick to chocolate than a mixed sweet bag.
