@@ -38,10 +38,10 @@ A straightforward unlit 6ft tree with 650 tips (a mix of flat and pointed for ex
 
 {% include amazon-link.html query="6ft Christmas Tree Artificial 650 PVC Tips Metal Stand Tool-Free" text="Check current price on Amazon" %}
 
-### Best for bigger rooms: GSD Colorado Christmas Tree, 8ft
-Available in green, grey, black, white, frosted, or flocked finishes at the same price point, which is unusual at this budget — worth it if you want something other than plain green, or extra height for a room with the ceiling to take it.
+### Best for bigger rooms: HOMCOM Snow-Flocked Artificial Christmas Tree, 8ft
+A full, hinged 8ft tree with snow-flocked tips for a frosted look without paying dedicated-flocked-brand prices, plus a sturdy stand and branches that fold out rather than needing to be slotted in individually. Worth it if you want extra height and a bit more visual texture than a plain green tree for a room with the ceiling to take it.
 
-{% include amazon-link.html query="GSD Colorado Christmas Tree 8ft Flocked" text="Check current price on Amazon" %}
+{% include amazon-link.html query="HOMCOM 8ft Snow Flocked Artificial Christmas Tree" text="Check current price on Amazon" %}
 
 ### Best for small spaces: SHareconn Pencil Christmas Tree, 6ft
 A slim "pencil" profile with 529 branch tips and 180 built-in lights, designed for narrow corners, hallways, or flats where a full-width tree just won't fit. Still reads as a proper tree despite the slim footprint, rather than looking sparse.
@@ -54,7 +54,7 @@ A slim "pencil" profile with 529 branch tips and 180 built-in lights, designed f
 |---|---|---|---|---|
 | Christow Aspen Spruce | 6ft | Yes, dual-colour LED | Green | All-around default |
 | 650-Tip PVC Tree | 6ft | No | Green | Tightest budget, add your own lights |
-| GSD Colorado | 8ft | No | Choice of 6 finishes | Bigger rooms, non-traditional colours |
+| HOMCOM Snow-Flocked | 8ft | No | Flocked white/green | Bigger rooms, frosted look |
 | SHareconn Pencil | 6ft | Yes | Green | Narrow spaces, hallways |
 
 ## FAQ
