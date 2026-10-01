@@ -17,6 +17,9 @@ Order matters, on two axes: (1) near-term seasonal urgency — a Halloween topic
 - Best Christmas gifts for dog and cat owners
 - Best gifts for coffee lovers
 - Best Christmas food hampers under £30
+- Best Christmas gifts for grandparents
+- Best Christmas gifts for teachers
+- Best first Christmas gifts for babies and toddlers
 - Best space heaters for small rooms
 - Best winter coats under £60
 - Best car winter emergency kits
