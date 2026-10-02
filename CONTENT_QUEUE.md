@@ -53,11 +53,13 @@ Order matters, on two axes: (1) near-term seasonal urgency — a Halloween topic
 - Best stationery sets for back to school
 - Best gifts under £15 for any occasion
 - Best birthday gift ideas for teenagers
+- Best 30th birthday gift ideas
 - Best pet gifts and accessories
 - Best gifts for new parents
 - Best gifts for book lovers
 - Best gifts for tea lovers
 - Best gifts for gardeners
+- Best novelty gifts under £10
 - Best budget hiking backpacks (30-50L)
 - Best camping lanterns (rechargeable and battery)
 - Best portable camping chairs
