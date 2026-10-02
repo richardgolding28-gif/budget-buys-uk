@@ -8,7 +8,6 @@ Order matters, on two axes: (1) near-term seasonal urgency — a Halloween topic
 
 ## Queue (next up first)
 
-- Best stocking fillers for her
 - Best budget Christmas gifts for kids
 - Best Secret Santa gifts under £10
 - Best Christmas crackers
@@ -77,6 +76,7 @@ Order matters, on two axes: (1) near-term seasonal urgency — a Halloween topic
 
 ## Done
 
+- Best stocking fillers for her (2026-10-02)
 - Best stocking fillers for him (2026-10-01)
 - Best Halloween sweets and treats for trick-or-treaters (2026-09-30)
 - Best Halloween garden and window decorations (2026-09-29)
