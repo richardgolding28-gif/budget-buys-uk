@@ -8,7 +8,6 @@ Order matters, on two axes: (1) near-term seasonal urgency — a Halloween topic
 
 ## Queue (next up first)
 
-- Best Secret Santa gifts under £10
 - Best Christmas crackers
 - Best Christmas jumpers
 - Best Christmas gifts for dog and cat owners
@@ -75,6 +74,7 @@ Order matters, on two axes: (1) near-term seasonal urgency — a Halloween topic
 
 ## Done
 
+- Best Secret Santa gifts under £10 (2026-10-04)
 - Best budget Christmas gifts for kids (2026-10-03)
 - Best stocking fillers for her (2026-10-02)
 - Best stocking fillers for him (2026-10-01)
